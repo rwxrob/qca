@@ -1,5 +1,15 @@
 # 📞 Questions, Advice, and Conversations
 
+## Tuesday, August 9, 2022, 6:15:07PM EDT
+
+Q: k3shrinky: why would someone use ZSH over BASH?
+
+Q: 10x_programmer: Q: why is gpg so user unfriendly?
+
+Q: drZool: ever feel like you should stop using "the cloud".
+
+Q: for frontend development, would you still use vim or switch to jetbrains?
+
 ## Monday, August 8, 2022, 6:44:25PM UTC
 
 📺 https://youtu.be/CQvkgjoPKSc 
