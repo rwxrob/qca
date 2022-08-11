@@ -1,6 +1,25 @@
 # 📞 Questions, Advice, and Conversations
 
-Q: SA20Knightmarre: Is it normal for a junior software engineer not finding fulfilment doing his job ?
+## Thursday, August 11, 2022, 6:13:46PM EDT
+
+Q: I'm 9 years exp finance guy, today received offer from a telecom company for software eng role (C++ mainly) I want to take the step and start from 0 in this path I want. What would you suggest to me to keep up with my peers, colleagues, to an ideal point to speed up learning?
+
+Q: What is your opinion about Carbon, will it be a real successor to C++?
+
+Q: Do you prefer making one big k8s cluster or one for each service/system?
+
+Q: What is the outlook of K8S jobs in the coming years?
+
+Q: What's the difference between VMware and virtual box?
+
+Q: What has been the best meal that your wife has cooked for you?
+Q: What type of budget will I need to get started building my IRL rig?
+Q: Is it normal for a junior software engineer not finding fulfilment on job ?
+Q: How many times does Doris swear a day?
+
+Related:
+
+* https://vsee.com/blog/hipaa-canada-health-information-privacy/
 
 ## Wednesday, August 10, 2022, 6:41:20PM EDT
 
