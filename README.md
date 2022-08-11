@@ -1,5 +1,15 @@
 # 📞 Questions, Advice, and Conversations
 
+Q: SA20Knightmarre: Is it normal for a junior software engineer not finding fulfilment doing his job ?
+
+## Wednesday, August 10, 2022, 6:41:20PM EDT
+
+Q: Is this a good place for life advice?
+Q: Will you tell us a story?
+Q: Would you sign an employee agreement that included an "Intellectual Property" clause? 
+Q: What does it mean to be "tainted" and how can I avoid it?
+Q: What was SKILSTAK skilbot?
+
 ## Tuesday, August 9, 2022, 6:15:07PM EDT
 
 📺 https://youtu.be/ntugjnvqE4A
