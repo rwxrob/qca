@@ -1,17 +1,34 @@
 # 📞 Questions, Advice, and Conversations
 
+## Saturday, August 13, 2022, :30:00PM EDT
+
+Q: Why aren't you at DefCon?
+Q: What do you think of attending conferences?
+Q: What do think of so-n-so? Do you like them?
+Q: Can you be friends with people from work?
+Q: What is the MVL?
+Q: Is your dog dead?
+Q: What do you do if you seriously disagree with people?
+Q: What keyboard do you have?
+Q: Do you have cowsay?
+Q: What do you think of "strong opinions, weakly held?"
+
+Q: How do you document an agreement on tools/used used on a project, between different teams? I'm trying to make that easier within my company. atm it's just a Word document with a wall of text.
+
+Q: Kinda need a advice, i have this girl that i like and i speak to her every day but i dont know if she likes me back. what should i do?
+
+Q: How to work with co-workers that are stingy on information they gather, or not direct with their sentences (giving half or lacking information)?
+
+Q: Is that gnome in the background what you based your github picture on?
+
 ## Thursday, August 11, 2022, 6:13:46PM EDT
 
 Q: I'm 9 years exp finance guy, today received offer from a telecom company for software eng role (C++ mainly) I want to take the step and start from 0 in this path I want. What would you suggest to me to keep up with my peers, colleagues, to an ideal point to speed up learning?
 
 Q: What is your opinion about Carbon, will it be a real successor to C++?
-
 Q: Do you prefer making one big k8s cluster or one for each service/system?
-
 Q: What is the outlook of K8S jobs in the coming years?
-
 Q: What's the difference between VMware and virtual box?
-
 Q: What has been the best meal that your wife has cooked for you?
 Q: What type of budget will I need to get started building my IRL rig?
 Q: Is it normal for a junior software engineer not finding fulfilment on job ?
