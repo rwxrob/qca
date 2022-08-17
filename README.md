@@ -1,4 +1,4 @@
-# 📞 Questions, Advice, and Conversations
+# 📞 Questions, Conversations, Advice
 
 Q: No really, should robots flip my burgers?
 Q: Will machine learning supplant artists?
