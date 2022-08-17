@@ -1,5 +1,27 @@
 # 📞 Questions, Advice, and Conversations
 
+Q: No really, should robots flip my burgers?
+Q: Will machine learning supplant artists?
+
+## Tuesday, August 16, 2022, 7:24:05PM EDT
+
+Q: What are you drinking?
+Q: How should I set up my own home lab and why?
+Q: How can I be a great manager?
+Q: How about Elixir?
+Q: What program that you have written or that you have worked hard on are you the proudest of?
+Q: What are your thoughts about quantum computing and should we start learning it?
+Q: Should I read The Imposter's Handbook?
+Q: What is a quaternion?
+Q: What is Particle Fever?
+Q: How will machine learning affect the IT industry?
+Q: Should robots flip my burgers?
+
+Related:
+
+* https://github.com/imposters-handbook
+* https://youtu.be/5Lx109jdGCc
+
 ## Saturday, August 13, 2022, :30:00PM EDT
 
 Q: Why aren't you at DefCon?
