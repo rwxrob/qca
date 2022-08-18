@@ -1,7 +1,16 @@
 # 📞 Questions, Conversations, Advice
 
-Q: No really, should robots flip my burgers?
-Q: Will machine learning supplant artists?
+Q: Should robots flip my burgers?
+
+## Wednesday, August 17, 2022, 6:17:43PM EDT
+
+Q: Where should I buy my domain names?
+Q: How do you deal with being the family/neighbor IT person?
+Q: What is "accreditation" and why should I care?
+Q: What is *really* asked in a technical interview?
+Q: Should I go to college? If so, which college?
+Q: What do you stand on privatization of education?
+Q: Should I work while I'm attending college?
 
 ## Tuesday, August 16, 2022, 7:24:05PM EDT
 
@@ -15,7 +24,6 @@ Q: Should I read The Imposter's Handbook?
 Q: What is a quaternion?
 Q: What is Particle Fever?
 Q: How will machine learning affect the IT industry?
-Q: Should robots flip my burgers?
 
 Related:
 
