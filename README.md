@@ -1,6 +1,59 @@
 # 📞 Questions, Conversations, Advice
 
+Q: What is actually like to work for a company like Discord?
+Q: What is LDAP and should I still use it?
+Q: What is "zero-trust" and why should I care?
+Q: Hillhoo: What do you think of the old cypherpunk movement. What has since
+   changed? How aligned are you with their views on privacy?
+Q: What do you think of "web3"?
 Q: Should robots flip my burgers?
+
+## Monday, August 22, 2022, 6:06:45PM EDT
+
+Q: What is https://excalidraw.com?
+Q: What is FreeIPA?
+Q: Do you consider yourself an extrovert?
+Q: What specific job titles does SKILSTAK Boost 2022?
+Q: Should I lie on my resume?
+Q: What are your thoughts on beards and tattoos in the tech workplace?
+Q: What is going on with "working remote"?
+Q: How do I weather the storm of "recession" coming up?
+
+## Friday, August 19, 2022, 7:10:57PM EDT
+
+Q: So my skip level called me today and told me to work as
+   intermediary between offshore team and another team. He then moves
+   to tell me that this is for your soft skills to be improved for
+   future. Is this kind of carrot or are they really thinking me to be a
+   manager?
+
+Q: What's the difference between software engineer and software developer?
+
+Q: Can you get a job if you only know Go (golang)? If not, what other
+   requirements are recommended?
+
+Q: More than half of all US companies are planning to lay off employees
+   as they brace for an economic downturn, according to a new survey.
+   The PwC survey — which polled 700 executives and board members across
+   the US — found 52% of companies have already enacted hiring freezes,
+   four out of 10 have rescinded jobs or axed signing bonuses for new
+   hires, and roughly half have started laying people off or are
+   preparing to cut headcount.
+
+Q: What is Grog?
+
+Related:
+
+* https://nypost.com/2022/08/19/half-of-companies-to-lay-people-off-survey-suggests/
+
+## Thursday, August 18, 2022, 7:20:46PM EDT
+
+Q: How to stop Rob from swearing?
+Q: When to use Proxmox versus VMware ESXi from home lab?
+Q: What is Ventoy and why do I care?
+Q: How to handle a job rejection without giving any reason, even if the interviewer has recommended you for the position?
+Q: What is Proxmox?
+Q: What is Asahi Linux?
 
 ## Wednesday, August 17, 2022, 6:17:43PM EDT
 
