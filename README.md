@@ -1,12 +1,46 @@
 # 📞 Questions, Conversations, Advice
 
 Q: What is actually like to work for a company like Discord?
+Q: How does one open up a new terminal while a long process is running, and get all the current and relevant history?
+
+## Monday, August 29, 2022, 6:22:40PM EDT
+
+Q: Did you buy all Raspberry Pis in the world for your rig? They're not available anymore.
+Q: Do you consider yourself a NERD?
+Q: Rob, what's your favourite Tech art? Anything related to Go's logo?
+Q: Did you make the TOML logo?
+Q: What is the cheapest homelab server I can buy?
+Q: Why do you prefer to use Linux as a subsystem within Windows?
+Q: Do you think non systemd distros are a big deal?
+Q: Why is Red Hat/OpenShift bad?
+Q: Why did you abandon Proxmox?
+Q: What is your font?
+Q: Should you try to run Linux on macs if Apple is actively trying to keep that from happening?
+Q: What is a "data lake"?
+Q: What do you think of "web3"?
+Q: Any experience running Snort (or other) as a NIPS or NIDS?
 Q: What is LDAP and should I still use it?
+
+## Thursday, August 25, 2022, 6:48:02PM EDT
+
+Q: Is it Thursday?
+Q: What should we call the new "homelab" playlist?
+Q: Why not "samba" instead of FreeIPA?
+Q: What is LDAP?
+Q: What is Kerberos?
+Q: Is Dennis "lastmiles" back?
+Q: Why do Germans say "Mr" and "Mrs" at work?
+Q: How do you usually start a personal project?
+
+## Wednesday, August 24, 2022, 7:07:33PM EDT
+
+Q: What changed on the calendar?
+Q: Should I put my homelab on the Internet?
 Q: What is "zero-trust" and why should I care?
+Q: Do you have "homelab" "on-prem" or in the cloud?
 Q: Hillhoo: What do you think of the old cypherpunk movement. What has since
    changed? How aligned are you with their views on privacy?
-Q: What do you think of "web3"?
-Q: Should robots flip my burgers?
+Q: What is Cicada 2022 and who does it?
 
 ## Monday, August 22, 2022, 6:06:45PM EDT
 
