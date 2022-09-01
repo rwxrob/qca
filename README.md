@@ -1,7 +1,33 @@
 # 📞 Questions, Conversations, Advice
 
 Q: What is actually like to work for a company like Discord?
+
+## Wednesday, August 31, 2022, 6:40:51PM EDT
+
+Q: Why does Red Hat hide everything?
+Q: Out if curiosity do you know who Luke Smith is and if you do what do you think of him?
+Q: How do you keep up on current tech news?
+Q: Why don't you have an actual pod cast?
+Q: What do you do when most of your team quits?
+Q: Are you going to KubeCon?
+Q: Are you single?
+Q: Is it possible to free lance in this field?
+Q: Should I be offended if people don't like the tech I've worked on?
 Q: How does one open up a new terminal while a long process is running, and get all the current and relevant history?
+
+## Tuesday, August 30, 2022, 6:28:54PM EDT
+
+Q: What is the best way to learn foreign languages?
+Q: Where did you learn to speak Russian and French?
+Q: What do you think of the Russian/Ukrainian war?
+Q: How did you meet Samantha Fox?
+Q: Is it easier to learn programming language if you are good with foreign languages?
+Q: When can you put a programming language on your resume?
+Q: Should I put a personal projects on my resume?
+Q: Could I ask an advice as a guy trying to start a career? I live abroad, have no network and don't know which companies to apply or avoid.
+Q: How do you stop all of the random recruiters from contacting you on Linked.In instead of the actual companies you want to work with directly? I get like 30 offers a week. I feel like I have to respond to each one. It's like getting junk mail. I don't like recruiters anymore.
+Q: Do you think personal brands and presence in social media (professional profiles) are good to get attention from recruiters?
+Q: What's your take on generalist vs specialist. How do you know when you're spreading yourself too thin?
 
 ## Monday, August 29, 2022, 6:22:40PM EDT
 
