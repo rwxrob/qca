@@ -1,6 +1,17 @@
 # 📞 Questions, Conversations, Advice
 
+
 Q: What is actually like to work for a company like Discord?
+
+## Thursday, September 1, 2022, 6:27:37PM EDT
+
+Q: How do you pick hardware for your homelab?
+Q: Should I just get an AWS certificate?
+Q: What can I do instead of a Raspberry Pi?
+Q: Can I practice zero-trust deployment at home?
+Q: How much money can I make in Kubernetes and cloud-native?
+Q: Who is your favorite actress?
+Q: What was you ride when you had a motorcycle?
 
 ## Wednesday, August 31, 2022, 6:40:51PM EDT
 
