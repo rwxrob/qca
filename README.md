@@ -1,7 +1,24 @@
-# 📞 Questions, Conversations, Advice
-
+# 📞😎 Questions, Conversations, Advice
 
 Q: What is actually like to work for a company like Discord?
+
+Q: Is VS Code open source?
+Q: How to balance work-life and mental health?
+Q: How do you deal with bad management?
+Q: Do you have any advice on how to stay motivated through books or is project based learning superior? I have a hard time pushing myself through books but I can never seem to finish. In my case do you think books should be used as reference?
+Q: Do you have platforms that you recommend for learning new languages?
+
+## Friday, September 2, 2022, 6:30:44PM EDT
+
+Q: Would it be possible to include time stamps in YouTube videos?
+Q: What's the best three pieces of advice you've ever received?
+Q: What is the best program language to start learn as beginner?
+Q: For the early years of careers, what are pros / cons of working in a startup vs a big firm / company?
+Q: What did have for lunch?
+Q: Are you a skater?
+Q: Can cloud computing be used to setup a botnet?
+Q: What made you get into programming?
+Q: Mastering programming language first or jump to create project directly when start new language?
 
 ## Thursday, September 1, 2022, 6:27:37PM EDT
 
