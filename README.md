@@ -1,12 +1,84 @@
 # 📞😎 Questions, Conversations, Advice
 
-Q: What is actually like to work for a company like Discord?
-
-Q: Is VS Code open source?
-Q: How to balance work-life and mental health?
-Q: How do you deal with bad management?
-Q: Do you have any advice on how to stay motivated through books or is project based learning superior? I have a hard time pushing myself through books but I can never seem to finish. In my case do you think books should be used as reference?
 Q: Do you have platforms that you recommend for learning new languages?
+Q: What do you think about WebAssembly?
+Q: Could you please share single sign on solutions for enterprise?
+
+## Monday, September 12, 2022, 6:32:17PM EDT
+
+Q: What's the risk of doing bug bounty on stream?
+Q: What is purple teaming?
+Q: Why did you stop pursuing OSCP/cybersecurity?
+Q: Why are Makefiles so horribly abused?
+Q: Do you have any good resources for learning about Ansible filters and
+   using lists & dicts (something better than whats in standard
+   docs/examples)?
+Q: Would it possible to include some general version numbers in homelab?
+Q: What do you think about Internet services being centralized?
+Q: How to survive toxic work environment?
+Q: What is an SRE?
+
+## Thursday, September 8, 2022, 6:33:14PM EDT
+
+Q: How can I balance security and practicality?
+Q: How do get executive buy in?
+Q: What happened to Randal Schwartz?
+Q: Should I allow ssh remote root access to servers?
+Q: How do you deal with bad management?
+Q: What do you think of Ansible for security?
+
+## Tuesday, September 6, 2022, 6:10:07PM EDT
+
+Q: Should I get a raise?
+
+Q: Time to time I feel gaslighted by my team mates, I don't speak their
+   language, I am a foreigner in where I live, we have a bit of
+   inclusively problem, I also feel like I wasn't able to gain their
+   trust till now, when I suggest something they react w/ that they
+   don't like their ways changed but when same thing is mentioned by
+   someone 4xsenior from my position it becomes logical. I am not 100%
+   sure maybe I am taking things too much to heart, should I try and
+   spend effort to be closer w/ them consider after work hangouts as an
+   investment or should I approach this more like work and be stricter
+   with the limits, are there anything else you would suggest?
+
+Q: I am in a... situation. it looks like i wont have a job when i go
+   back to work after this weekend. I want to get into tech and i
+   probably have 2 months to do so. I believe this is possible but i
+   have a hill to climb. I have no resume and no documented proof that i
+   have any tech skills even though i do. I've started doing the 2022
+   boost to fill in some gaps and plan to complete that asap. does
+   anyone have any suggestions? should i get a part-time job to tide me
+   over? does anyone want to study together?
+
+Q: Do you have any advice on how to stay motivated through books or is
+   project based learning superior? I have a hard time pushing myself
+   through books but I can never seem to finish. In my case do you think
+   books should be used as reference?
+
+Q: Has anyone received a job from your Go/Kubernetes recruiter after
+   learning the skills?
+
+Q: If someone is trying to get a new job, are there any red flags people
+   should pay attention to that might indicate a toxic work environment?
+
+## Monday, September 5, 2022, 6:36:44PM EDT
+
+Q: Do you like ergo keyboards?
+
+Q: Is VS Code open source? (https://ghuntley.com/fracture/)
+
+Q: Is Linux going to run on Mac M1/2 chips? (https://asahilinux.org)
+
+Q: How to balance work-life and mental health?
+
+Q: Should I consider learning time education?
+
+Q: My direct report is an EPM even though we do 1:1s weekly since he
+   doesn't check my PRs or direct output, not able to directly comment
+   about this. Should I try to form a guru-grasshopper relationship with
+   one of the senior engineers and force them to guide me? if yes, how
+   to trick them?
 
 ## Friday, September 2, 2022, 6:30:44PM EDT
 
