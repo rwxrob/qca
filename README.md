@@ -1,8 +1,83 @@
 # 📞😎 Questions, Conversations, Advice
 
-Q: Do you have platforms that you recommend for learning new languages?
-Q: What do you think about WebAssembly?
-Q: Could you please share single sign on solutions for enterprise?
+## Thursday, September 22, 2022, 9:37:44PM EDT
+
+Q: Are you are streaming on multiple platforms?
+Q: Will you ever be partner?
+Q: Anyone planning to go on strike Twitch?
+Q: How much do you make from Twitch?
+Q: Do you have a blog?
+Q: How do you stream copyrighted music?
+Q: What do you think about this?
+   (https://powerautomate.microsoft.com/en-us/) Free windows software by
+   microsoft to automate task by creating workflow
+Q: What do you think of other streamers?
+
+## Wednesday, September 21, 2022, 9:39:21PM EDT
+
+Q: Do you have any recommendations on what books to read (For
+   wisdom/Self improvement...) ?
+Q: Who was Viktor Frankl?
+Q: What do you think about Jordon Peterson?
+Q: What do you think of Sam Harris?
+Q: What do you think of Joseph Campbell?
+
+Other less important questions:
+
+Q: Which headphones are you using?
+Q: What was making "anton" crash?
+
+## Tuesday, September 20, 2022, 9:36:08PM EDT
+
+Q: What is the best way to help someone learn Linux?
+
+## Monday, September 19, 2022, 9:36:07PM EDT
+
+Q: Are you familiar with Mark Russinovich? If so; did you see his tweet
+   about Deprecating c/c++ and replacing with Rust?
+Q: As a polyglot, can you recommend any specific
+   methodologies/strategies for learning human language that are also
+   applicable to learning programmatic ones?
+
+## Friday, September 16, 2022, 10:03:38PM EDT
+
+Q: Why is the schedule changing again?
+Q: What are CoffeeTalk and QCA?
+Q: When did you start programming?
+Q: Is there an agnostic package manager? Found Nixos and Conda but I'm
+   looking a way to get my .dotfiles repo on different OS's without
+   manual setup if possible. I'm a Mac user (don't hate) but could be
+   Win or Linux too.
+Q: Why is Go the best compiled language for tools and utilities?
+Q: What is the schedule?
+Q: What is your best advice to control your focus when you work? I find
+   it especially hard when the task is really hard and I'm having a bad
+   time doing progress.
+Q: Do you eat the whole chips, or the broken chips first?
+Q: What is "bike shedding" and "yak shaving"?
+Q: Why is Typescript better than JavaScript?
+Q: What do you think of React and other web frameworks?
+
+## Wednesday, September 14, 2022, 7:00:00PM EDT
+
+Q: Are you going to change your schedule?
+Q: Are we going to use the forum channels on Discord?
+Q: You recently said that `dig` and `whois` weren't great tools. What
+   would you use instead?
+Q: What is your favorite light beer? (Sapporo)
+Q: How much does real Wasabi cost?
+Q: Which beer would you recommend to a newbie?
+Q: What kind of beer does your wife like?
+Q: Is Anaphylactic shock a thing?
+Q: Why is Epinepherine so expensive in America?
+Q: What is your fortune?
+
+## Tuesday, September 13, 2022, 6:33:21PM EDT
+
+Q: How much sleep to you get and when?
+Q: What is a biphasic sleep schedule?
+Q: What is the value of working from home?
+Q: Would you ever go back to college?
 
 ## Monday, September 12, 2022, 6:32:17PM EDT
 
