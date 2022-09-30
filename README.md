@@ -1,9 +1,44 @@
 # 📞😎 Questions, Conversations, Advice
 
+## Thursday, September 29, 2022, 9:16:20PM EDT
+
+Q: Why are files not executable but can be run with bash <file>?
+Q: Why do people think unit tests are bad?
+Q: Why do people always forget user acceptance testing?
+
+Q: Hey I just stumbled across your video about helping people learn
+   Linux and thought it was a great talk. Personally I am wanting to
+   teach free classes to disadvantaged kids about how to use computer
+   and learn some basic scripting skills that can help them in many
+   kinds of employment (e.g. using Cron jobs to produce daily reports
+   from data in various excel files - basic mundane office tasks). I
+   think in modern times these kinds of skills can provide a lot of
+   economic mobility for people in a vast variety of typical office jobs
+   and you don't need to be a full on programmer to do this kind of
+   stuff. Just a small bit of knowledge in this domain goes a long way.
+
+   It was great to hear your perspective in hosting classes and the
+   issues you encountered. Would you have any advice to someone like
+   myself who wants to provide these kinds of classes for free,
+   specifically targeting kids who come from poorer families and are
+   less likely to be able to provide for resources like laptops? Is it
+   feasible? Is it out of place to contact schools? Should I try to host
+   it with a school or do it independently; like a weekly class at a
+   local library etc.?
+
+Q: What is the integer of the first element of an array or list?
+Q: How much could you learn by yourself if you had \$85k per semester?
+Q: What is Anakin Syndrome?
+Q: How do you teach kids morality?
+
+Related:
+
+* https://medium.com/@rwxrob/lists-start-at-0-38bf423587bc
+
 ## Thursday, September 22, 2022, 9:37:44PM EDT
 
 Q: Are you are streaming on multiple platforms?
-Q: Will you ever be partner?
+Q: Will you ever be partner?https://medium.com/@rwxrob/lists-start-at-0-38bf423587bc
 Q: Anyone planning to go on strike Twitch?
 Q: How much do you make from Twitch?
 Q: Do you have a blog?
